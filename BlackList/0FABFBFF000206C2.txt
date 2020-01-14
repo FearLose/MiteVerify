@@ -1,0 +1,10 @@
+User Name:Administrator
+User Name:C:\Users\Administrator
+User Name:C:\Users\Administrator\Desktop\MITE-Dev
+System CPU:0FABFBFF000206C2
+System MaCD:0FAB-FBFF-0002-06C20947
+System MAC:00-0C-29-72-85-F0
+System Name:Windows Server 2012 R2
+System Type:x86
+System Ver:6.3
+B2

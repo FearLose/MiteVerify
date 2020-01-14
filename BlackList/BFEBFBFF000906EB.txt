@@ -1,0 +1,6 @@
+System CPU:BFEBFBFF000906EB
+System MaCD:BFEB-FBFF-0009-06EB0990
+System MAC:00-50-56-C0-00-08
+System Name:Windows 10
+System Type:amd64
+System Ver:10.0

@@ -1,0 +1,11 @@
+User Name:Administrator
+User Name:C:\Users\Administrator
+User Name:E:\¿ª·þÏÀ\server
+System CPU:178BFBFF00100F53
+System MaCD:178B-FBFF-0010-0F532025
+System MAC:AE-AC-76-9E-39-78
+System Name:Windows 7
+System Type:amd64
+System Ver:6.1
+
+bot2
