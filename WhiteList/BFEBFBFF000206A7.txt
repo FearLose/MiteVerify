@@ -1,0 +1,7 @@
+System CPU:BFEBFBFF000206A7
+System MaCD:BFEB-FBFF-0002-06A71091
+System MAC:C8-60-00-15-74-05
+System Name:Windows 7
+System Type:x86
+System Ver:6.1
+Self:Fear_Lose
