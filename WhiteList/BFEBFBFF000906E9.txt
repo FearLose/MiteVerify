@@ -1,0 +1,15 @@
+UserName: Administrator
+ComputerName: PC-20181029XEXK
+UserDomain: PC-20181029XEXK
+UserName Administrator
+UserHome C:\Users\Administrator
+UserDir C:\Users\Administrator\Desktop\MITE R196
+OSName Windows 10
+OSArch x86
+OSVersion 10.0
+JavaVersion 1.8.0_231
+JavaPath C:\Program Files (x86)\Java\jre1.8.0_231
+CPUID: BFEBFBFF000906E9
+HardAddress: 1831BFDDE546
+IPLocalMac: 18-31-BF-DD-E5-46
+diskDrive: TW18816B0111034
