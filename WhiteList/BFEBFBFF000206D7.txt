@@ -1,0 +1,16 @@
+UserName: server519
+ComputerName: WIN-8ET9HKALM3U
+UserDomain: WIN-8ET9HKALM3U
+UserName： server519
+UserHome： C:\Users\server519
+UserDir： D:\Servers\server519
+OSName： Windows Server 2008 R2
+OSArch： amd64
+OSVersion： 6.1
+JavaVersion： 1.8.0_212
+JavaPath： C:\JXJAVA8
+CPUID: BFEBFBFF000206D7
+HardAddress: 848F69FDE668
+IPLocalMac: 84-8F-69-FD-E6-68
+diskDrive: 5442524a3135353331305644343241304e472020
+TGLK Server
